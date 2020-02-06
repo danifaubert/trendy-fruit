@@ -26,14 +26,26 @@ body {
   margin: 0;
 }
 
-.Watermelon {
+.watermelon {
   font-family: "Rammetto One", cursive;
 }
 
-.Starfruit {
+.starfruit {
   font-family: "Gravitas One", cursive;
 }
 
-.Persimmon {
+.persimmon {
   font-family: Comfortaa, cursive;
+}
+
+.max-length1 {
+  background-color: #e86033;
+}
+
+.max-length2 {
+  background-color: #fbd25e;
+}
+
+.max-length3 {
+  background-color: #e97065;
 }
