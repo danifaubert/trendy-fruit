@@ -26,6 +26,10 @@ body {
   margin: 0;
 }
 
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
 .watermelon {
   font-family: "Rammetto One", cursive;
 }
@@ -39,7 +43,7 @@ body {
 }
 
 .max-length1 {
-  background-color: #e86033;
+  background-color: #e97065;
 }
 
 .max-length2 {
@@ -47,5 +51,5 @@ body {
 }
 
 .max-length3 {
-  background-color: #e97065;
+  background-color: #e86033;
 }
